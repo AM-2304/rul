@@ -1,1 +1,1 @@
-# Remaining USeful Life of Transformers in Medical Industry
+# Remaining Useful Life of Transformers in Medical Industry
